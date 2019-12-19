@@ -1,0 +1,97 @@
+{
+    "name": "Planbox",
+    "description": "The pioneering platform for agile work innovation - collaborative innovation management software and agile work management.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/895-planbox.jpg",
+    "tags": [
+        "have api",
+        "projects",
+        "tasks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/planbox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Planbox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/895-planbox.jpg",
+            "humanURL": "http:\/\/www.planbox.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/planbox-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/planbox-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.planbox.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.planbox.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.planbox.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/planbox"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/planbox"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/support.planbox.com\/knowledgebase\/topics\/34846-api-documentation"
+        },
+        {
+            "type": "Email",
+            "url": "careers@planbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@planbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "support-innovate@planbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "support-work@planbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "media@planbox.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Planbox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/planbox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PlanboxInc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.planbox.com"
+        }
+    ]
+}
